@@ -1,0 +1,83 @@
+.review-form {
+    display: flex;
+    padding: 0px;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    margin: 0 auto;;
+    width: 70%;
+}
+
+.review-head {
+    margin-top: 30px;
+    text-align: center;
+}
+
+.review-head h2 {
+    font-size: 300%;
+    font-family: 'Dancing Script', cursive;
+    padding: 10px;
+}
+
+.review-head h3 {
+    font-size: 200%;
+    
+    font-family: "Times New Roman", Times, serif;
+    padding: 10px;
+}
+
+.review-rate {
+    display: flex;
+    padding: 0px;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    margin: 0 auto;;
+    width: 70%;
+}
+
+.review-rate h3 {
+    font-size: 200%;
+    text-align: center;
+    font-family: "Times New Roman", Times, serif;
+    padding: 10px;
+    width: 100%;
+}
+
+.rate {
+    font-size: 150%;
+    font-weight: 400;
+}
+
+.comment {
+    display: flex;
+    padding: 0px;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    margin: 30px auto;
+    width: 70%;
+}
+
+textarea {
+    width: 100%;
+}
+
+.comment button {
+    margin-top: 20px;
+    width: 120px;
+    height: 50px;
+}
+
+.comment h4 {
+    font-size:  200%;
+    font-family: 'Dancing Script', cursive;
+    padding: 10px;
+}
+
+.data {
+    background-image: linear-gradient(to right, #72CF56, #61B04A);
+    box-shadow: 0px 10px 50px #218D01;
+    width: 40%;
+    font-size: larger;
+    border-radius: 15px;
+    text-align: center;
+    padding: 0px;
+}
